@@ -4,6 +4,10 @@
 
 ## Contacts:
 
+<div> 
+  https://www.linkedin.com/in/marcos-vinicius-assun%C3%A7%C3%A3o-de-moraes-a35aba244/
+</div>
+
 <div>
 <a href="https://github.com/L0NdreZ">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0NdreZ&layout=compact&langs_count=7&theme=dracula"/>
