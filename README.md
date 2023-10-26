@@ -2,7 +2,7 @@
 
 ## My name is Marcos and my nickname is "L0NdreZ"
 
-## Contacts:
+
 
 
 <div>
