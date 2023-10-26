@@ -4,9 +4,6 @@
 
 ## Contacts:
 
-<div> 
-  +[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/marcos-vinicius-assun%C3%A7%C3%A3o-de-moraes-a35aba244/)
-</div>
 
 <div>
 <a href="https://github.com/L0NdreZ">
