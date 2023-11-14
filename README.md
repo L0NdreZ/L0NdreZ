@@ -1,10 +1,3 @@
-### Hi
-
-## My name is Marcos and my nickname is "L0NdreZ"
-
-
-
-
 <div>
 <a href="https://github.com/L0NdreZ">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0NdreZ&layout=compact&langs_count=7&theme=dracula"/>
